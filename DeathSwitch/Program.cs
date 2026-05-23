@@ -12,6 +12,8 @@ namespace DeathSwitch
             app.MapGet("/", () => "10k");
             app.MapGet("/", () => "Hello World! i love my group ");
             app.MapGet("/", () => "they want this  ");
+            app.MapGet("/", () => "Hello World! i love my group ");
+            app.MapGet("/", () => "they want this ");
             app.Run();
         }
     }
