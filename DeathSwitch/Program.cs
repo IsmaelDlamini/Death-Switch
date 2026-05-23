@@ -1,4 +1,4 @@
-namespace Death_Switch
+namespace DeathSwitch
 {
     public class Program
     {
