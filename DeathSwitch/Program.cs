@@ -8,6 +8,7 @@ namespace DeathSwitch
             var app = builder.Build();
 
             app.MapGet("/", () => "Hello World! Ofentse Ismael Luyanda");
+            app.MapGet("/", () => "Hello World! i love my group ");
 
             app.Run();
         }
