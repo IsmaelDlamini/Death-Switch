@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeathSwitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdc6aa2101a82ed45574fb440073e90e94392e1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f312d5266bdabbdf3b165fb6876a576607e9251")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeathSwitch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeathSwitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
